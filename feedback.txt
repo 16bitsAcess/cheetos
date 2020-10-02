@@ -1,0 +1,16 @@
+*̶F̶E̶E̶D̶B̶A̶C̶K̶*
+
+a cada reposta coloque o seu nome do whatssap na frente
+por exemplo: hoffboy : bla bla bla
+
+1= Digite Seu Nome do whatssap:
+GuBot
+PiPa
+   
+2= Digite o que vc achou da ajuda que voce recebeu pelo criador:
+GuBot:a ajuda foi esclarecedora, me ajudou em tudo oque queria
+PiPa:foda para um caralho, mlk gênio
+
+3= Voce Recomendaria alguem a usar:
+GuBot:e óbvio que recomendaria
+PiPa:SIM
